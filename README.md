@@ -39,3 +39,10 @@ El siguiente requerimiento es para una lista de productos List<Producto> , de 3 
 La clase Producto debe tener el atributo precio del tipo double y cantidad int, entonces utilizando stream convertir la lista de productos en el gran total del tipo double.
 
 **Clase solucion Producto & TareaListas**
+
+# Tarea 5
+
+Escriba un programa que imprima los números del 1 al 100 y para múltiplos de '3' imprima "Fizz" en lugar del número y para los múltiplos de '5' imprima "Buzz" adiconal a esto cuando sea divisible por 3 y por 5 debe colocar FizzBuzz.
+
+**Clase solucion TareaFizzBuzz**
+
